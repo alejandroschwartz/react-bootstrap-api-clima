@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-api-clima/static/css/main.82dc0908.chunk.css",
+    "main.js": "/react-bootstrap-api-clima/static/js/main.41c4c54d.chunk.js",
+    "main.js.map": "/react-bootstrap-api-clima/static/js/main.41c4c54d.chunk.js.map",
+    "runtime-main.js": "/react-bootstrap-api-clima/static/js/runtime-main.34299e87.js",
+    "runtime-main.js.map": "/react-bootstrap-api-clima/static/js/runtime-main.34299e87.js.map",
+    "static/js/2.83000fb7.chunk.js": "/react-bootstrap-api-clima/static/js/2.83000fb7.chunk.js",
+    "static/js/2.83000fb7.chunk.js.map": "/react-bootstrap-api-clima/static/js/2.83000fb7.chunk.js.map",
+    "index.html": "/react-bootstrap-api-clima/index.html",
+    "precache-manifest.a82ff70972038d6640e0c2aa1f24d737.js": "/react-bootstrap-api-clima/precache-manifest.a82ff70972038d6640e0c2aa1f24d737.js",
+    "service-worker.js": "/react-bootstrap-api-clima/service-worker.js",
+    "static/css/main.82dc0908.chunk.css.map": "/react-bootstrap-api-clima/static/css/main.82dc0908.chunk.css.map",
+    "static/js/2.83000fb7.chunk.js.LICENSE.txt": "/react-bootstrap-api-clima/static/js/2.83000fb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34299e87.js",
+    "static/js/2.83000fb7.chunk.js",
+    "static/css/main.82dc0908.chunk.css",
+    "static/js/main.41c4c54d.chunk.js"
+  ]
+}
